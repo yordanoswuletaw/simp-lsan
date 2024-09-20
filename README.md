@@ -2,6 +2,7 @@
 
 
 [![amharic-script](https://github.com/yordanoswuletaw/simp-lsan/blob/main/amharic-script.json)]
+[![amharic-script](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://github.com/yordanoswuletaw/simp-lsan/blob/main/amharic-script.json)
 
 [simp-lsan](https://github.com/yordanoswuletaw/simp-lsan) is an Amharic language gender-specific adjectives classifier machine learning model.
 
