@@ -23,11 +23,6 @@ git clone https://github.com/yordanoswuletaw/simp-lsan.git
 cd simp-lsan
 ```
 
-## Continuous build status
-
-You can find more community-supported platforms and configurations in the
-[TensorFlow SIG Build community builds table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
-
 ### Releases
 
 
