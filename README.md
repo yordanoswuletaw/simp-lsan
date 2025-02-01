@@ -2,9 +2,9 @@
 
 [simplsan](https://github.com/yordanoswuletaw/simp-lsan) is an Amharic language gender-specific adjectives classifier machine learning model.
 
-simplsan contains its own small [datasets](https://github.com/yordanoswuletaw/simp-lsan/blob/main/datasets.csv) (1k+) and a [word embedding algorithm](https://github.com/yordanoswuletaw/simp-lsan/blob/main/smp-lsan-v3.ipynb) tailored for the Amharic language to encode Amharic words into dense numerical vectors, capturing semantic relationships between words.
+simplsan contains its own small [datasets](https://github.com/yordanoswuletaw/simp-lsan/blob/main/data/datasets.csv) (1k+) and a [word embedding algorithm](https://github.com/yordanoswuletaw/simp-lsan/blob/main/notebooks/smp-lsan-v3.ipynb) tailored for the Amharic language to encode Amharic words into dense numerical vectors, capturing semantic relationships between words.
 
-[✍🏾 amharic-script](https://github.com/yordanoswuletaw/simp-lsan/blob/main/amharic-script.json)
+[✍🏾 amharic-script](https://github.com/yordanoswuletaw/simp-lsan/blob/main/data/amharic-script.json)
 
 
 ## Installation
